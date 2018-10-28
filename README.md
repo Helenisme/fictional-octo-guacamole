@@ -8,7 +8,7 @@
 2. Answer these questions
    * What are the GitHub usernames and names of your team members?
        * GitHub username 1: Helenisme      name 1: Yingxin Han
-       * GitHub username 2:       name 2:
+       * GitHub username 2: laimaster21    name 2:Chongxi Yuan
        * GitHub username 3: aveserat       name 3: Andrew Veserat
        * GitHub username 4:       name 4:
        * GitHub username 5:       name 5:
