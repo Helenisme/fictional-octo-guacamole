@@ -51,7 +51,7 @@ Describe at a high level a program that could solve that problem.
 - Course preferences (for auto generation)
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
-
+refer to scheduleInterface.PNG
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
