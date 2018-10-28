@@ -1,4 +1,4 @@
-# X-Team 81 Project Proposal
+# X-Team 81 Project Proposal--Course Scheduler
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -29,23 +29,22 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-A schedule planner for course enrollment. We find that there are many ways that we can improve the current schedule planner in the course website. We will use the data structures(e.g. hashtables) to make an improved schedule planner.
+Briefly describe a problem that your team would like to solve.  
+Describe at a high level a program that could solve that problem.
 
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
-
+Course Scheduler
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
-
-
+The course scheduler will produce a list of possible schedules for the user to choose from.
+Example: Output format: See output.pdf
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
-- Desired Courses
-- Times when unavailable/available (breaks)
-- Select Term
-- Course preferences (for auto generation)
+
+
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
