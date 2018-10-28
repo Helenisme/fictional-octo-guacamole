@@ -53,10 +53,20 @@ Describe at a high level a program that could solve that problem.
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
-
-
+CourseTable
+Main
+DegreePlanner
+SemesterPlanner
 
 Name each interface or class and briefly describe its function or purpose.
+
+CourseTable class will store all classes offered in a hashtable, it will include a inner class "class", which is stores all information of each class in key, value pairs.
+
+Main class will create the user interface and call other classes. It will be the main part of this program.
+
+DegreePlanner similar to the DARS report, this class will plan the students courses for all 4 years to satisfy all the degree requirements for his or her major. This class will call semester planner to find the right schedule for each semester.
+
+SemesterPlannner will handle the courses for each semester to make sure there are no conflicts and generate a weekly schedule for the given courses.
 
 
 ## Edit and Submit this file and any figures referenced by this document.
