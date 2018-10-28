@@ -29,8 +29,7 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-Briefly describe a problem that your team would like to solve.  
-Describe at a high level a program that could solve that problem.
+A schedule planner for course enrollment. We find that there are many ways that we can improve the current schedule planner in the course website. We will use the data structures(e.g. hashtables) to make an improved schedule planner.
 
 ## Questions to answer for Exercise #2
 
