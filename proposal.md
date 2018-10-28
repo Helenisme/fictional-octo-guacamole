@@ -45,8 +45,10 @@ Describe at a high level a program that could solve that problem.
    Example: Output format: See output.pdf
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
-
-
+- Desired Courses
+- Times when unavailable/available (breaks)
+- Select Term
+- Course preferences (for auto generation)
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
