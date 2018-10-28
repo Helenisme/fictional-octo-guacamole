@@ -39,9 +39,9 @@ Course Scheduler
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
-The course scheduler will produce a list of possible schedules for the user to choose from.
-
-Example: Output format: See output.pdf
+   
+   The course scheduler will produce a list of possible schedules for the user to choose from.
+   Example: Output format: See output.pdf
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
