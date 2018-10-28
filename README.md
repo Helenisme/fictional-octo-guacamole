@@ -9,7 +9,7 @@
    * What are the GitHub usernames and names of your team members?
        * GitHub username 1:       name 1:
        * GitHub username 2:       name 2:
-       * GitHub username 3: aveserat  name 3: Andrew Veserat
+       * GitHub username 3: aveserat       name 3: Andrew Veserat
        * GitHub username 4:       name 4:
        * GitHub username 5:       name 5:
    * When did you complete this exercise? 
